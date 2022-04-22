@@ -6,7 +6,7 @@
 
 ## How to use?
 
-1. Install and unzip [PDF2png.rar](./static/PDF2png.rar).
+1. Install and unzip [PDF2png.rar](<a href="./static/PDF2png.rar">).
 2. Open the folder.
 3. Run file "PDF2png.exe"
 4. Drag a PDF file in to cmd.
