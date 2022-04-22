@@ -2,7 +2,7 @@
 
 ## Install
 
-* [PDF2png.rar](./static/PDF2png.rar)
+* [PDF2png.rar](https://github.com/ShiroOYuki/PDF2png/raw/main/static/PDF2png.rar)
 
 ## How to use?
 
